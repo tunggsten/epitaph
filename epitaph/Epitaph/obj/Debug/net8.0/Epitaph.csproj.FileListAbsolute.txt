@@ -1,0 +1,15 @@
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/bin/Debug/net8.0/Epitaph
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/bin/Debug/net8.0/Epitaph.deps.json
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/bin/Debug/net8.0/Epitaph.runtimeconfig.json
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/bin/Debug/net8.0/Epitaph.dll
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/bin/Debug/net8.0/Epitaph.pdb
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.GeneratedMSBuildEditorConfig.editorconfig
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.AssemblyInfoInputs.cache
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.AssemblyInfo.cs
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.csproj.CoreCompileInputs.cache
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.sourcelink.json
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.dll
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/refint/Epitaph.dll
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.pdb
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/Epitaph.genruntimeconfig.cache
+/home/ozzb/Documents/epitaph/epitaph/Epitaph/obj/Debug/net8.0/ref/Epitaph.dll
