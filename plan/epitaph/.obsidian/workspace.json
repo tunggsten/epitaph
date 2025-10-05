@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "fd28fae0decbff66",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e81319c1ef86cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6c0703824ed99bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1d914c751adc383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bca75f8bc513504c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5cc4cc4a11ff476",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ae8916414e5a618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58d3232c60c08375",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9d544e3140c60a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9414c375fd9dff34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58e131eef7bf4d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "914c1c27ecb43370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "762e3901f9d6184f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ThingState.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ThingState"
+            }
+          },
+          {
+            "id": "24ee4db2ca98a3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ThingState.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ThingState"
+            }
+          },
+          {
+            "id": "df0b5e96c1620658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "950768b5f8f1e4a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ThingState.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ThingState"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bca75f8bc513504c",
+  "lastOpenFiles": [
+    "Thing.md",
+    "Script.md",
+    "Space.md",
+    "Root.md",
+    "Engine.md",
+    "Main Plan.md",
+    "ThingState.md",
+    "Objective Space.md",
+    "Untitled.canvas",
+    "Markdown formatting reminder.md"
+  ]
+}

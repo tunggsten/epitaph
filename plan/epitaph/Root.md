@@ -1,0 +1,1 @@
+Root is a [[Thing]] that's used as the top of the parent/child hierarchy. It has no parent. Everything in a scene is a child of or a successor to the Root.

@@ -4,11 +4,11 @@ namespace Epitaph;
 
 public static class Engine
 {
-    public static Stract root;
+    public static Thing root;
 
 
 
-    public static void GetStractsWithTag()
+    public static void GetThingsWithTag()
     {
 
     }

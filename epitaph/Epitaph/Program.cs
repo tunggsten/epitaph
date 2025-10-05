@@ -2,13 +2,18 @@
 using Epitaph;
 
 
-new Stract(name: "Root", root: true);
+new Thing(name: "Root", root: true);
 
-Console.WriteLine(Engine.root);
+Thing testThing = new Thing(name: "hello");
+Thing testThing2 = new Thing(name: "goodbye", parent: testThing);
+Thing testThing3 = new Thing(name: "im pegging that man at the back of the bus", parent: testThing);
 
-Stract testStract = new Stract(name: "hello");
+foreach (Thing child in testThing.children)
+{
+    Console.WriteLine($"thing's child is called {child.name}");
+}
 
-foreach (Stract child in Engine.root.GetChildren())
+foreach (Thing child in Engine.root.GetSubthings())
 {
     Console.WriteLine(child.name);
 }

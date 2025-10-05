@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Epitaph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a6a7b72fc39672baafb3853664c088afd48a01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92fb7b2bc57412a0fe9439d04f37bebeff27aa35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Epitaph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Epitaph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
