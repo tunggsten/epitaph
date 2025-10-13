@@ -1,9 +1,10 @@
 Scripts are classes with functions the engine calls at certain times. When you make gameplay code to attach to a [[Thing]], your class should inherit from Script so the [[Engine]] knows it can expect certain methods to exist when it runs your code.
+
 ## Attributes
 
 | Attribute | Type   | Purpose                                                                      |
 | --------- | ------ | ---------------------------------------------------------------------------- |
-| `enabled` | `bool` | Tells the [[Engine]] whether it should bother running this script.           |
+| `state`   | `bool` | Tells the [[Engine]] whether it should bother running this script.           |
 | `begun`   | `bool` | Tells the [[Engine]] for an instance of this script if it's been run before. |
 | `thing`   | Thing` | The [[Thing]] this script is attached to.                                    |
 
